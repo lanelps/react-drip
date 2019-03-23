@@ -1,4 +1,4 @@
-# P5-React-Boilerplate
+# 💧P5-React-Boilerplate💧
 
 This is a personal project incorporating the p5.js librabry with React components.
 
