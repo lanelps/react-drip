@@ -11,7 +11,7 @@
     "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
   },
-  "author": "Lane le Prevost-Smith <lanelps@gmail.com>",
+  "author": "Lane Le Prevost-Smith <lanelps@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "gh-pages": "^2.0.1",
