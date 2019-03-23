@@ -8,6 +8,7 @@ Run `yarn`
 `yarn start` to start server
 
 Before deploying, in package.json change "homepage" to correct link to repo for github pages
+
 `yarn build` to package the files
 `yarn deploy` to deploy package for github pages
 
