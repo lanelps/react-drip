@@ -1,4 +1,6 @@
-# 💧P5-React-Boilerplate💧
+# 💧react-drip💧
+
+💧💧DRIP DRIP💧💧
 
 This is a personal project incorporating the p5.js librabry with React components.
 
