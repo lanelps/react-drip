@@ -5,6 +5,7 @@ This is a personal project incorporating the p5.js librabry with React component
 #### To get started...
 
 Run `yarn`
+
 `yarn start` to start server
 
 Before deploying, in package.json change "homepage" to correct link to repo for github pages
