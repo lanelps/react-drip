@@ -2,7 +2,7 @@
   "name": "P5-React",
   "version": "1.0.0",
   "description": "lanelps Personal project",
-  "homepage": "https://lanelps.github.io/P5-React/",
+  "homepage": "https://USERNAME.github.io/REPOSITORYNAME/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
